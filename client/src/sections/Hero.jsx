@@ -225,8 +225,8 @@ const Hero = () => {
                   <div className="flex items-center gap-3">
                     <div className="text-2xl">📷</div>
                     <div className="text-sm font-semibold text-gray-900 dark:text-white">
-                      <div>Canon R5</div>
-                      <div className="text-xs text-gray-500 dark:text-gray-400">4K Video</div>
+                      <div>Canon R55</div>
+                      <div className="text-xs text-gray-500 dark:text-gray-400">8K Video</div>
                     </div>
                   </div>
                 </div>
@@ -258,7 +258,7 @@ const Hero = () => {
         onClick={() => scrollToSection('about')}
       >
         <div className="flex flex-col items-center gap-3">
-          <span className="text-sm text-gray-500 dark:text-gray-400 font-medium tracking-wide">Scroll to Discover</span>
+          <span className="text-sm text-gray-500 dark:text-gray-400 font-medium tracking-wide">Scroll to Discover More</span>
           <div className="w-6 h-10 border-2 border-gray-300 dark:border-gray-600 rounded-full flex justify-center">
             <div className="w-1 h-3 bg-gray-400 dark:bg-gray-500 rounded-full mt-2"></div>
           </div>
